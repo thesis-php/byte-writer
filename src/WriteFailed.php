@@ -7,4 +7,4 @@ namespace Thesis\ByteWriter;
 /**
  * @api
  */
-final class WriterIsClosed extends \RuntimeException {}
+final class WriteFailed extends \RuntimeException {}

@@ -11,7 +11,7 @@ interface Writer
 {
     /**
      * @param non-empty-string $bytes
-     * @throws WriterIsClosed
+     * @throws WriteFailed
      */
     public function write(string $bytes): void;
 }
