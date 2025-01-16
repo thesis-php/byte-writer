@@ -1,5 +1,5 @@
 {
-    "name": "thesis/bytewriter",
+    "name": "thesis/byte-writer",
     "description": "Writer abstraction for I/O.",
     "license": "MIT",
     "type": "library",
